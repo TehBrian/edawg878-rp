@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_nse",
     "textures": {
-      "side": "blocks/nether_brick",
-      "top": "blocks/nether_brick"
+      "side": "block/nether_brick",
+      "top": "block/nether_brick"
     }
 }

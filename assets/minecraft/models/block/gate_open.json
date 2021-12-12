@@ -1,7 +1,7 @@
 {
     "textures": {
-        "particle": "blocks/planks_oak",
-        "texture": "blocks/fence_gate_oak"
+        "particle": "block/planks_oak",
+        "texture": "block/fence_gate_oak"
     },
     "elements": [
         {   "__comment": "Left-hand post",

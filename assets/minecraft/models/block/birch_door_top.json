@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/door_birch_upper",
-        "all": "blocks/door_birch_upper" // z y x
+        "particle": "block/door_birch_upper",
+        "all": "block/door_birch_upper" // z y x
     },
     "elements": [
         {   "__comment": "Grid",
